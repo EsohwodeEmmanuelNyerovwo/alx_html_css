@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+article {
+    flex: 2;
+    overflow-y: auto;
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+
+.img-alx {
+    width: 20%;
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 2rem;
+}
+
+footer {
+    text-align: center;
+}
+
+footer p a {
+    text-decoration: none;
+}
+
+footer p a:hover {
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-radius: 2px;
+}
