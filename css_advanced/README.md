@@ -1,0 +1,1 @@
+This Project is focus on the css and style of the page. The designer file is available on Figma. The link is https://www.figma.com/design/Egc33vMLKIzJv3tf6gzlwC/Homepage--Copy-?node-id=3558-0&t=qQQxmZIsK72Na4yc-1.
